@@ -5,7 +5,7 @@ The goal of this project was to analyze social media advertising data to identif
 
 Using **Microsoft Power BI**, I transformed raw data into an interactive dashboard that visualizes campaign performance across various dimensions such as demographics, platforms, and timeframes.
 
-## 🖼️ Dashboard Preview
+## 🖼️ Dashboard
 ![Dashboard ](https://github.com/Rem598/Social-Media-Ad-Performance-Dashboard/blob/main/DS%20T2%20dashboard.png)
 
 
