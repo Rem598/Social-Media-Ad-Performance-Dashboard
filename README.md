@@ -32,11 +32,11 @@ The dashboard tracks the following high-level metrics:
 
 **Temporal Trends:**
 
-**Monthly Performance:** Both Total Clicks and ROI showed a steady upward trend peaking in June and July, before experiencing a sharp decline in August.
+- Monthly Performance: Both Total Clicks and ROI showed a steady upward trend peaking in June and July, before experiencing a sharp decline in August.
 
-Time of Day: Engagement (CTR) is highest in the Afternoon (11.91%) and Evening (11.83%), suggesting these are the optimal windows for ad scheduling compared to Night (11.69%).
+- Time of Day: Engagement (CTR) is highest in the Afternoon (11.91%) and Evening (11.83%), suggesting these are the optimal windows for ad scheduling compared to Night (11.69%).
 
-Dynamic Filtering:
+**Dynamic Filtering:**
 
 The dashboard includes interactive slicers allowing users to drill down data by specific Countries (e.g., Australia, Brazil, Canada) and Ad Types (Carousel, Image, Stories, Video).
 
