@@ -38,7 +38,7 @@ The dashboard tracks the following high-level metrics:
 
 **Dynamic Filtering:**
 
-The dashboard includes interactive slicers allowing users to drill down data by specific Countries (e.g., Australia, Brazil, Canada) and Ad Types (Carousel, Image, Stories, Video).
+- The dashboard includes interactive slicers allowing users to drill down data by specific Countries (e.g., Australia, Brazil, Canada) and Ad Types (Carousel, Image, Stories, Video).
 
 ## 🛠️ Tools Used
 * **Microsoft Power BI** (Data Visualization & Modeling)
