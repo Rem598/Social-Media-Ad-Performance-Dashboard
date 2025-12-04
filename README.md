@@ -5,7 +5,7 @@ The goal of this project was to analyze social media advertising data to identif
 
 Using **Microsoft Power BI**, I transformed raw data into an interactive dashboard that visualizes campaign performance across various dimensions such as demographics, platforms, and timeframes.
 
-**Dataset Used** ![Dataset](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance)
+**Dataset Used** [Kaggle Link](https://www.kaggle.com/datasets/alperenmyung/social-media-advertisement-performance)
 
 ## 🖼️ Dashboard
 ![Dashboard ](https://github.com/Rem598/Social-Media-Ad-Performance-Dashboard/blob/main/DS%20T2%20dashboard.png)
