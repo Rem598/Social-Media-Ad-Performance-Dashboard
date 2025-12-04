@@ -1,13 +1,13 @@
 # Social Media Ad Performance Dashboard 📊
 
 ## 🚀 Project Overview
-This project is part of my journey as a **Data Science & Analytics Intern** at **Future Interns** (Task 2). The goal was to analyze social media advertising data to identify key trends and performance metrics that can help optimize marketing strategies.
+The goal of this project was to analyze social media advertising data to identify key trends and performance metrics that can help optimize marketing strategies.
 
 Using **Microsoft Power BI**, I transformed raw data into an interactive dashboard that visualizes campaign performance across various dimensions such as demographics, platforms, and timeframes.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](https://github.com/YourUsername/Social-Media-Ad-Performance-Dashboard/blob/main/dashboard-image.png)
-*(Note: Please ensure you upload your screenshot to the repo and update the link above)*
+![Dashboard ](https://github.com/Rem598/Social-Media-Ad-Performance-Dashboard/blob/main/DS%20T2%20dashboard.png)
+
 
 ## 🔑 Key Performance Indicators (KPIs)
 The dashboard tracks the following high-level metrics:
