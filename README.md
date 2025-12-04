@@ -19,12 +19,26 @@ The dashboard tracks the following high-level metrics:
 * **Return on Investment (ROI):** 333.2%
 
 ## 💡 Key Insights & Visualizations
-* **Platform Analysis:** Comparing CTR between Instagram and Facebook (Instagram leads slightly with 11.86%).
-* **Demographics:** Breakdown of revenue by Age Group (highest in 35-44 group) and Gender.
-* **Temporal Trends:**
-    * **Monthly Trend:** Tracking Clicks and ROI fluctuations from May to August.
-    * **Time of Day:** Analyzing CTR during Afternoon, Evening, Morning, and Night to optimize ad scheduling.
-* **Filtering:** Interactive slicers for Country and Ad Type (Carousel, Image, Stories, Video).
+
+**Platform Analysis:**
+
+- Comparative analysis of CTR reveals a tight competition, with Instagram (11.86%) maintaining a marginal lead over Facebook (11.76%).
+
+**Demographic Performance:**
+
+- Age Group: The 35-44 age group is the dominant revenue driver, contributing $42.6K (41.68%) of the total, followed significantly by the 55-65 age group ($32.2K).
+
+- Gender: Male users generated the highest revenue at $56K, significantly outperforming Female users ($36K) and the 'Other' category ($10K).
+
+**Temporal Trends:**
+
+**Monthly Performance:** Both Total Clicks and ROI showed a steady upward trend peaking in June and July, before experiencing a sharp decline in August.
+
+Time of Day: Engagement (CTR) is highest in the Afternoon (11.91%) and Evening (11.83%), suggesting these are the optimal windows for ad scheduling compared to Night (11.69%).
+
+Dynamic Filtering:
+
+The dashboard includes interactive slicers allowing users to drill down data by specific Countries (e.g., Australia, Brazil, Canada) and Ad Types (Carousel, Image, Stories, Video).
 
 ## 🛠️ Tools Used
 * **Microsoft Power BI** (Data Visualization & Modeling)
